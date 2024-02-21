@@ -73,7 +73,7 @@ const Disease = () => {
                 className="sm:size-8 size-5 hover:cursor-pointer"
                 src="./Images/arrow.png"
                 onClick={() => {
-                  navigate("/Book-your-Doctor")
+                  navigate("/Doctors")
                 }}
               />
             </div>
